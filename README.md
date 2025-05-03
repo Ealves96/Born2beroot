@@ -6,7 +6,7 @@
 # 🚀 Born2beroot
 
 ## 📝 Présentation rapide
-Ce projet m’a permis de découvrir l’administration système sur Debian, en créant une VM sécurisée et minimaliste, sans interface graphique, conformément au sujet Born2beroot de l’école 42.
+Ce projet m’a permis de découvrir l’administration système sur Debian, en créant une VM sécurisée et minimaliste, sans interface graphique.
 
 ## 🖥️ Installation et partitionnement
 J’ai installé Debian stable sur une machine virtuelle VirtualBox. J’ai configuré le partitionnement avec :
@@ -28,8 +28,7 @@ J’ai installé Debian stable sur une machine virtuelle VirtualBox. J’ai conf
 ## 📊 Monitoring
 - J’ai développé un script `monitoring.sh` en bash, qui affiche toutes les 10 minutes les informations système clés sur tous les terminaux (via cron et wall).
 
-📄 Les détails de mon script sont disponibles ici :  
-[monitoring.sh](https://docs.google.com/document/d/1RxfQ3NQr1N-lqCcB0ruKLArxJWuvVgdGuBpF44vLVy4/edit?usp=sharing)
+📄 Les détails de mon script sont disponibles ici : [monitoring.sh](https://docs.google.com/document/d/1RxfQ3NQr1N-lqCcB0ruKLArxJWuvVgdGuBpF44vLVy4/edit?usp=sharing)
 
 ## 🛠️ Outils utilisés
 <p>
