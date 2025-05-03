@@ -30,6 +30,15 @@ J’ai installé Debian stable sur une machine virtuelle VirtualBox. J’ai conf
 
 📄 Les détails de mon script sont disponibles ici : [monitoring.sh](https://docs.google.com/document/d/1RxfQ3NQr1N-lqCcB0ruKLArxJWuvVgdGuBpF44vLVy4/edit?usp=sharing)
 
+
+## 🧰 Quelques commandes utiles
+- `lsblk` : voir le partitionnement
+- `sudo aa-status` : vérifier AppArmor
+- `ss -tnulp | grep 4242` : vérifier SSH
+- `sudo ufw status` : vérifier le pare-feu
+- `chage -l <user>` : vérifier la politique de mot de passe
+- `sudo -l` ou consulter `/var/log/sudo/` : vérifier sudo
+
 ## 🛠️ Outils utilisés
 <p>
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"/>
@@ -40,14 +49,6 @@ J’ai installé Debian stable sur une machine virtuelle VirtualBox. J’ai conf
   <img src="https://img.shields.io/badge/Cron-6A5ACD?style=for-the-badge&logo=linux&logoColor=white" alt="Cron"/>
   <img src="https://img.shields.io/badge/SSH-2C2C2C?style=for-the-badge&logo=openssh&logoColor=white" alt="SSH"/>
 </p>
-
-## 🧰 Quelques commandes utiles
-- `lsblk` : voir le partitionnement
-- `sudo aa-status` : vérifier AppArmor
-- `ss -tnulp | grep 4242` : vérifier SSH
-- `sudo ufw status` : vérifier le pare-feu
-- `chage -l <user>` : vérifier la politique de mot de passe
-- `sudo -l` ou consulter `/var/log/sudo/` : vérifier sudo
 
 ---
 <p align="center">
