@@ -99,7 +99,7 @@ Born2beroot est un projet d’initiation à l’administration système et à la
 
 ## 📄 Documentation du script de monitoring
 Pour plus de détails sur le script `monitoring.sh`, consultez le document suivant :  
-[Documentation détaillée du script sur Google Drive](https://drive.google.com/ton-lien-ici)
+[Documentation détaillée du script sur Google Drive](https://docs.google.com/document/d/1RxfQ3NQr1N-lqCcB0ruKLArxJWuvVgdGuBpF44vLVy4/edit?usp=sharing)
 
 ---
 <p align="center">
