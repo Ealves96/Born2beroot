@@ -1,9 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Born2beRoot-42-blueviolet?style=for-the-badge&logo=linux" alt="Born2beRoot"/>
+  # 🚀 Born2beroot
 </p>
-
-# 🚀 Born2beroot
 
 ## 📝 Présentation rapide
 Ce projet m’a permis de découvrir l’administration système sur Debian, en créant une VM sécurisée et minimaliste, sans interface graphique.
