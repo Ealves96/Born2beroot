@@ -1,7 +1,7 @@
 <!-- Banner -->
-<p align="center">
-  # 🚀 Born2beroot
-</p>
+<h1 align="center">
+  🚀 Born2beroot
+</h1>
 
 ## 📝 Présentation rapide
 Ce projet m’a permis de découvrir l’administration système sur Debian, en créant une VM sécurisée et minimaliste, sans interface graphique.
